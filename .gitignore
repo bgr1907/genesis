@@ -6,8 +6,8 @@ target/
 /target/
 */target/**
 **/META-INF/
-!.mvn/wrapper/maven-wrapper.jar
-Users/akarabacak/.m2/repository
+.mvn
+Users/akarabacak/.m2
 
 ### STS ###
 .apt_generated
